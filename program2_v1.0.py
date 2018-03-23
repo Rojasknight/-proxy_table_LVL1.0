@@ -18,7 +18,7 @@ from glob import *
 
 """ Descripción de la clase
 #Nombre: Operation                                                                                       
-#Descripción: se ejecutaran las distintas operaciones para sacar la media y la desviación estándar      
+#Descripción: se ejecutaran las distintas operaciones para realizar el conteo de locs      
 #Constructor: Operation()
 #Parámetros del constructor:  null
 
